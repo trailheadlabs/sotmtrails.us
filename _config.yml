@@ -2,9 +2,9 @@
 title: SOTM Trails
 email: sotmtrails@trailheadlabs.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Are you excited about all the awesome ways OpenStreetMap is being used for parks and recreation?
+  Are you also coming to State of the Map 2015?
+  Well you must be the luckiest person alive because there are bunch of cool things happening!
 baseurl: "/sotmtrails.us" # the subpath of your site, e.g. /blog/
 url: "http://sotmtrails.us" # the base hostname & protocol for your site
 twitter_username: trailheadlabs
