@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is an exciting year for the great outdoors at State of the Map US! There are several talks and other activities that will explore how OpenStreetMap can be used by the outdoor recreation community.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This site will serve as a central source of information for folks interested in these happenings!
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This site is being maintained primarily by Jereme Monteau and Trailhead Labs as a service to the OSM community.
