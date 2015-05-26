@@ -4,7 +4,7 @@ title:  "Welcome to SOTM Trails!"
 date:   2015-05-25 21:51:05
 categories: welcome
 ---
-Do you love mapping parks and trails in OpenStreetMap? Do you work for a park steward that is curious about using OpenStreetMap to power your maps? Wondering how this fits in with Open Data? Are you a developer that wants to build awesome web or mobile apps to get people outside? If you answered yes to any of these questions and you are headed to [State of the Map US 2015][http://stateofthemap.us/] then you've come to the right place!
+Do you love mapping parks and trails in OpenStreetMap? Do you work for a park steward that is curious about using OpenStreetMap to power your maps? Wondering how this fits in with Open Data? Are you a developer that wants to build awesome web or mobile apps to get people outside? If you answered yes to any of these questions and you are headed to [State of the Map US 2015][sotmus] then you've come to the right place!
 
 There are a few exiting happenings at SOTMUS this year that will explore OpenStreetMap as a platform for parks and recreation.
 
@@ -20,6 +20,7 @@ State of the Map US is less than 2 weeks away and we can't wait! This site will 
 
 We'll also be tweeting from various accounts including @trailheadlabs with the hashtag #sotmtrails so keep an eye out for those as well!
 
+[sotmus]: http://stateofthemap.us/
 [opentrails-talk]:  http://stateofthemap.us/opentrails/
 [peripheral-data-panel]:  http://stateofthemap.us/peripheral-data-in-osm-panel/
 [strava-talk]:  http://stateofthemap.us/map-tracing-for-millennials/
