@@ -8,18 +8,21 @@ Do you love mapping parks and trails in OpenStreetMap? Do you work for a park st
 
 There are a few exiting happenings at SOTMUS this year that will explore OpenStreetMap as a platform for parks and recreation.
 
-Jereme Monteau, CTO of Trailhead Labs, will be speaking on Saturday June 6th at 11:45 AM in Room CR1 about [OpenTrails][opentrails-talk] and how it works with OpenStreetMap. He'll tell the story of how OpenTrails came to be, exactly how it works with OpenStreetMap and how it's already being used for a variety of purposes.
+**Jereme Monteau**, CTO of Trailhead Labs, will be speaking on Saturday June 6th at 11:45 AM in Room CR1 about [OpenTrails][opentrails-talk] and how it works with OpenStreetMap. He'll tell the story of how OpenTrails came to be, exactly how it works with OpenStreetMap and how it's already being used for a variety of purposes.
 
 Later on June 6th at 3:00 PM also in Room CR1, Jereme will be on a [panel hosted by Drew Dara-Abrams to discuss peripheral data sets][peripheral-data-panel] with an exciting array of speakers from Mapillary, OpenAddresses, Transitland and PolygonCity.
 
-There will also be a Birds of a Feather session dedicated to parks and recreation. Come meet everyone else that is exited about the great outdoors in OSM. Let's talk about our successes, challenges and how we might help each other! Exact time and place TBD.
+There will also be a **Birds of a Feather** session dedicated to parks and recreation. Come meet everyone else that is exited about the great outdoors in OSM. Let's talk about our successes, challenges and how we might help each other! Exact time and place TBD.
 
 We also recommend checking out [Paul Mach's talk 'Map tracing for #millenials'][strava-talk] on Sunday June 7th at 3:30 PM in Room CR1 about how Strava not only uses OSM but is also coming up with intelligent ways to improve it with big data.
 
-State of the Map US is less than 2 weeks away and we can't wait! This site will serve as a central source of information for all of the parks and recreation related activities happening there. Check back as we get closer and of course during the conference for updates.
+**State of the Map US is less than 2 weeks away** and we can't wait to be there! This site will serve as a central source of information for all of the parks and recreation related activities happening there. Check back as we get closer and of course during the conference for updates.
 
 We'll also be tweeting from various accounts including @trailheadlabs with the hashtag #sotmtrails so keep an eye out for those as well!
 
+In the mean time, [sign up for the newsletter][newsletter] for updates on everything outdoor related at State of the Map!
+
+[newsletter]: https://tinyletter.com/sotmtrails/
 [sotmus]: http://stateofthemap.us/
 [opentrails-talk]:  http://stateofthemap.us/opentrails/
 [peripheral-data-panel]:  http://stateofthemap.us/peripheral-data-in-osm-panel/
