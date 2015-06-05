@@ -8,9 +8,9 @@ This morning I arrived at Penn Station on the Amtrak from Washington DC and it's
 
 Speaking of my talk (is that a pun?) here are a couple of posts you might want to check out to get excited to hear more about the first year of OpenTrails!
 
-**[On the Trail with Open Data][bffs]** - A  blog post we did for the run-up to the Spring Mapathons for the Great Outooors
-**[It's Better Out There][civic]** - A longer read that was publish in Civic Quarterly that provides a good narrative of the inception of OpenTrails. I'll touch and this and go into more detail on our with OpenStreetMap, as well what has been happening since then.
-**[TrailEditor : A Wyoming Outlaw][wyoming]** - Published today! A quick read on some rather crazy new legislation in Wyoming that comes down hard on citizen science and data collection!
+* **[On the Trail with Open Data][bffs]** - A  blog post we did for the run-up to the Spring Mapathons for the Great Outooors
+* **[It's Better Out There][civic]** - A longer read that was publish in Civic Quarterly that provides a good narrative of the inception of OpenTrails. I'll touch and this and go into more detail on our with OpenStreetMap, as well what has been happening since then.
+* **[TrailEditor : A Wyoming Outlaw][wyoming]** - Published today! A quick read on some rather crazy new legislation in Wyoming that comes down hard on citizen science and data collection!
 
 If you've got a little extra time in NYC and want to checkout the parks, you should of course check out [Central Park][central-park], but also a couple lesser known gems are the [High Line][high-line] and [Bryant Park][bryant-park].
 
